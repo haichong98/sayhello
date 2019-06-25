@@ -9,7 +9,7 @@ Demo: http://sayhello.helloflask.com
 ## Installation
 
 ```
-$ git clone https://github.com/greyli/sayhello.git
+$ git clone https://github.com/1243726062/sayhello.git
 $ cd sayhello
 $ pipenv install --dev
 $ pipenv shell
